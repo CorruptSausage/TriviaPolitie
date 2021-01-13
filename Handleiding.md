@@ -76,6 +76,11 @@ Eerste Hoofd-Commissaris:
 |AT|Hoofd-Agent|Moet Unmarked Hebben|
 |Unmarked|Hoofd-Agent|
 |DSI|Brigadier|Mag alleen Met AT specialisatie|
+|Recherche|Inspecteur|
+|Alles|Hoofd-Inspecteur|
+|Alles|Commissaris|
+|Alles|Hoofd-Commissaris|
+|Alles|KorpsChef|
 
 
 

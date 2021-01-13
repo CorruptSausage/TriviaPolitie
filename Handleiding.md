@@ -74,6 +74,6 @@ Eerste Hoofd-Commissaris:
 |Zulu|Hoofd-Agent|
 |OVD|Hoofd-Agent|
 |AT|Hoofd-Agent|
-|DSI|Brigadier|
+|DSI|Brigadier|Mag alleen Met AT specialisatie|
 
 

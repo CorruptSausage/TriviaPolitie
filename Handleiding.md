@@ -179,6 +179,11 @@ Wat heb je allemaal bij tijdens je dienst?
 - handschoenen
 - EHBO-KIT
 
+## Rechten tijdens een aanhouding:
+- Een persoon heeft recht om te weten van welk strafbaar feit hij/zij wordt verdacht.
+- Persoon heeft het recht om te zwijgen.
+- Persoon heeft recht op een advocaat, Indien persoon geen geld heeft wordt er een toegewezen door de staat.
+- persoon heeft recht op een tolk.
 
 
 

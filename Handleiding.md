@@ -142,6 +142,25 @@ Prio 3 is zonder zwaailichten en sirenes en dus geen spoed aanrijdend
 gaan. Je hebt geen vrijstellingen en mag niet te hard rijden. Je bent ook
 geen voorrangsvoertuig.
 
+## Achtervolgingen:
+### Te voet:
+Bij een achtervolging te voet zorg je er voor dat niet iedereen achter de
+verdachte aan gaan rennen maar ook met auto’s achterna gaan.
+
+### Fiets:
+Bij een achtervolging met een verdachte op de fiets zorg je ervoor dat er
+indien mogelijk een collega op de motor/fiets er achteraan gaat.
+
+### Scooter/motor:
+Bij een achtervolging met een verdachte op een scooter of motor zorg je
+ervoor dat er indien mogelijk een collega op de motor er achteraan gaat.
+
+### Voertuig (4+ wielen):
+Bij een achtervolging van een voertuig zorg je er voor dat er indien
+mogelijk iemand van team verkeer er bij aansluit en de leiding ervan pakt
+(zij zijn er namelijk voor opgeleid)
+
+
 
 
 

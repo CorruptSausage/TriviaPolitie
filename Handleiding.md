@@ -63,3 +63,7 @@ Eerste Hoofd-Commissaris:
 - Vuurwapen dragend
 - Mag alleen rijden
 - KorpsChef Politie Trivia
+
+## Specialisaties:
+
+

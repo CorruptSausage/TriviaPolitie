@@ -67,7 +67,7 @@ Eerste Hoofd-Commissaris:
 ## Specialisaties:
 
 |Specilisatie|Rang|Plus|
-|:---|:----:|
+|:---|:----:|---:|
 |Offroad|Surveillant|
 |Motor|Agent|
 |Siv|Hoofd-Agent|

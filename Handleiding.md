@@ -84,7 +84,6 @@ Eerste Hoofd-Commissaris:
 
 ## Basis Informatie:
 Je dienst beginnen:
-
 Om je dienst succesvol te kunnen beginnen heb je paar dingen die je
 moet doen. Als eerste ga je het portokanaal in. Vervolgens trek je je
 uniform aan. Daarna pak je je zaklamp, wapenstok, tazer en indien
@@ -95,12 +94,10 @@ wanneer bepaalde voertuigen mogen. Tot slot test je de zwaailichten,
 sirenes, stopbord, oranje lichten, groen licht en zoeklicht.
 
 Tijdens de dienst:
-
 Tijdens de dienst kom je verschillende dingen tegen komen. Een staande
 houding, achtervolging, overval, gijzeling.
 
 Wat te doen bij een staandehouding:
-
 Bij een staandehouding zeg je het volgende: Goedendag
 meneer/mevrouw, zou u alvast voor mij de motor uit willen zetten. Heeft
 u voor mij uw rij en kentekenbewijs. De reden van de staande houding is
@@ -110,7 +107,6 @@ Dat is verder allemaal in orde. Hier heeft u uw rij en kentekenbewijs
 terug.
 
 Wat te doen bij een aanhouding:
-
 Bij een aanhouding doe je de boeien om bij de verdachte. Vervolgens zegt
 u: heeft u dingen bij zich die u niet bij zich mag hebben of waar ik of me
 collega zich aan kan bezeren? Vervolgens stop je persoon in het voertuig.

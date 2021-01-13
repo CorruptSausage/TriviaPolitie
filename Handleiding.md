@@ -117,6 +117,31 @@ die niet kunt veroorloven zult u er een toegewezen krijgen door het
 openbaar ministerie. Ook heeft u het recht om gebruik te maken van een
 tolk. Heeft u dat begrepen?
 
+## Prioriteiten:
+###Prio 1 met toestemming:
+Prio 1 met toestemming is met zwaailichten en sirenes ter plaatse gaan.
+Je hebt de hoogste prioriteit om ter plaatse te gaan. Je hebt vrijstellingen
+met betrekking tot de verkeersregels en je mag 40 km/u harder rijden (of
+met toestemming overschrijden brancherichtlijnen meer). Verder ben je
+een voorrangsvoertuig.
+
+### Prio 1 zonder toestemming:
+Prio 1 zonder zonder toestemming is met zwaailichten maar zonder
+sirenes ter plaatse gaan. Je hebt vrijstellingen met betrekking tot de
+verkeersregels en je mag 40 km/u harder rijden (of met toestemming
+overschrijden brancherichtlijnen meer). Verder ben je geen
+voorrangsvoertuig.
+
+### Prio 2:
+Prio 2 is zonder zwaailichten en sirenes maar met gepaste spoed
+aanrijdend gaan. Je hebt vrijstelling met betrekking tot de verkeersregels
+en je mag 20 km/u harder rijden. Verder ben je geen voorrangsvoertuig.
+
+### Prio 3:
+Prio 3 is zonder zwaailichten en sirenes en dus geen spoed aanrijdend
+gaan. Je hebt geen vrijstellingen en mag niet te hard rijden. Je bent ook
+geen voorrangsvoertuig.
+
 
 
 

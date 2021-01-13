@@ -69,5 +69,10 @@ Eerste Hoofd-Commissaris:
 |Specilisatie|Rang|
 |:---|:----:|
 |Offroad|Surveillant|
+|Motor|Agent|
+|Siv|Hoofd-Agent|
+|Zulu|Hoofd-Agent|
+|OVD|Hoofd-Agent|
+|AT|Hoofd-Agent|
 
 

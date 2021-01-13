@@ -160,6 +160,24 @@ Bij een achtervolging van een voertuig zorg je er voor dat er indien
 mogelijk iemand van team verkeer er bij aansluit en de leiding ervan pakt
 (zij zijn er namelijk voor opgeleid)
 
+## Uitrusting:
+Wat heb je allemaal bij tijdens je dienst?
+### Koppelriem:
+- Zaklamp
+- Wapenstok
+- Tazer
+- Vuurwapen(Zodra training behaald is)
+
+### In het voertuig:
+- 5 Pionnen
+- Kogelwerende Vesten
+- VerzekeringPapieren
+- AED
+- BrandBlusser
+- Geel hesje
+- Helm
+- handschoenen
+- EHBO-KIT
 
 
 
